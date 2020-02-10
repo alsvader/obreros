@@ -1,0 +1,12 @@
+.title {
+  color: #0277bd;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  margin-top: 3%;
+  margin-bottom: 5px;
+}
+.divider {
+  background-color: #3f51b5;
+  padding: 2px;
+  width: 13%;
+}

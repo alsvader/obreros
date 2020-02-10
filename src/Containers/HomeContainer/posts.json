@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Mensaje de Bienvenida",
+    "content": "La gran mayoría de la gente dice que la masonería no se actualiza, que no va con los adelantos modernos, que se ha quedado enclaustrada en sus talleres...",
+    "image": "../../static/media/bienvenida.jpg"
+  },
+  {
+    "title": "La Masonería es...",
+    "content": "A pesar de que la Masonería es una institución de respetable antigüedad, y que de ella se han ocupado ampliamente historiadores, filósofos y escritores...",
+    "image": "../../static/media/bienvenida.jpg"
+  },
+  {
+    "title": "Código Moral Masónico",
+    "content": "El origen del Código moral masónico se remonta al año 1717, cuando se produjo la primera reorganización de logias masónicas de que se tiene noticia...",
+    "image": "../../static/media/bienvenida.jpg"
+  }
+]

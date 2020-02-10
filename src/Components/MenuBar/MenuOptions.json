@@ -1,0 +1,6 @@
+[
+  { "label": "Inicio", "to": "/" },
+  { "label": "Nosotros", "to": "/about" },
+  { "label": "Artículos", "to": "/articles" },
+  { "label": "Contacto", "to": "/homeworks" }
+]
